@@ -43,8 +43,8 @@ use of principal component analysis to optimise analysis of the data.
 
 #### Outline of project
 
-- [[Capstone_EDA_JS](https://github.com/J51ngh/Berk_Capstone/blob/main/Capstone_EDA_JS.ipynb)]
-- [[Capstone_OCSVM_JS](https://github.com/J51ngh/Berk_Capstone/blob/main/Capstone_OCSVM_JS.ipynb)]
+- [[Capstone_EDA_JS](https://github.com/J51ngh/Berk_Capstone/blob/main/Capstone_EDA_JS.ipynb)] (May require download as file is too big to render)
+- [[Capstone_OCSVM_JS](https://github.com/J51ngh/Berk_Capstone/blob/main/Capstone_OCSVM_JS.ipynb)] 
 - [[Capstone_LOF_JS](https://github.com/J51ngh/Berk_Capstone/blob/main/Capstone_LOF_JS.ipynb)]
 
 

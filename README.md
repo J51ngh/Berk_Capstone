@@ -45,7 +45,7 @@ use of principal component analysis to optimise analysis of the data.
 
 - [Link to notebook 1]()
 - [Link to notebook 2]()
-- [Link to notebook 3]()
+- [Capstone_LOF_JS.ipynb]()
 
 
 ##### Contact and Further Information

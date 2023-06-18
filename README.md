@@ -45,7 +45,7 @@ use of principal component analysis to optimise analysis of the data.
 
 - [Link to notebook 1]()
 - [Link to notebook 2]()
-- [Capstone_LOF_JS.ipynb]()
+- [[Capstone_LOF_JS.ipynb](https://github.com/J51ngh/Berk_Capstone/blob/main/Capstone_OCSVM_JS.ipynb)]()
 
 
 ##### Contact and Further Information
